@@ -43,4 +43,3 @@ export const useExerciseStore = create<ExerciseState>()(
     },
   ),
 )
-
